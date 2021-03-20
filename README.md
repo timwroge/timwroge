@@ -4,7 +4,6 @@
 These are academic or exploratory repositories that are in progress. The hope is that these will act like C++ libraries that 
 * https://github.com/timwroge/Algorithms
 * https://github.com/timwroge/Dynamics
-* 
 
 Here are some fun projects that you can check out:
 * https://github.com/timwroge/Stockchain
