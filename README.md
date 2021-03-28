@@ -4,6 +4,8 @@
 These are academic or exploratory repositories that are in progress. The hope is that these will act like C++ libraries that are an extension of the C++ standard libraries (external math/applications)
 * https://github.com/timwroge/Algorithms
 * https://github.com/timwroge/Dynamics
+* https://github.com/timwroge/Geometry
+* https://github.com/timwroge/Visualization
 
 Here are some fun projects that you can check out:
 * https://github.com/timwroge/Stockchain
