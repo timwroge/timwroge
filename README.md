@@ -14,7 +14,7 @@ Here are some fun projects that you can check out:
 * https://github.com/timwroge/TensorFlowGettingStarted
 
 
-Here are some of my research based repoos:
+Here are some of my research based repos:
 * https://github.com/timwroge/LFADS_CNBC_Pipeline
 * https://github.com/timwroge/lfads-run-manager
 * https://github.com/timwroge/CNBC
