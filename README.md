@@ -1,4 +1,4 @@
-👋 Hi, I’m @timwroge. I am a software engineer at Carnegie Robotics LLC. I am interested in algorithms, data structures, signal processing and controls. Some of my open source projects are described below:
+👋 Hi, I’m @timwroge. I am a computer vision engineer at Voxel. I am interested in algorithms, data structures, signal processing and controls. Some of my open source projects are described below:
 
 
 These are academic or exploratory repositories that are in progress. The hope is that these will act like C++ libraries that are an extension of the C++ standard libraries (external math/applications)
