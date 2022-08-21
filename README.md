@@ -20,3 +20,11 @@ Here are some of my research based repos:
 * https://github.com/timwroge/CNBC
 * https://github.com/timwroge/ReinforcementLearning
 
+
+<b>⚡ Github Stats</b>
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=timwroge&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timwroge&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+
